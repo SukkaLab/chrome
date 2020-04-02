@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2020-04-01 21:05:05</time>
+  <time>2020-04-02 21:06:19</time>
   <stable32>
     <version>80.0.3987.162</version>
     <download>
@@ -38,22 +38,22 @@
     <size>59851520</size>
   </beta64>
   <dev32>
-    <version>83.0.4093.3</version>
+    <version>83.0.4100.3</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AK9ehuPabfA2ikUszyAVz_I_83.0.4093.3/83.0.4093.3_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/AK9ehuPabfA2ikUszyAVz_I_83.0.4093.3/83.0.4093.3_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/SnedhGwS1e8q7vJx219fgQ_83.0.4100.3/83.0.4100.3_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/SnedhGwS1e8q7vJx219fgQ_83.0.4100.3/83.0.4100.3_chrome_installer.exe</url>
     </download>
-    <sha256>1a6085bfa0909f57f787451686da6c2e1993705f03cc6cf8796b0bad5b12dfce</sha256>
-    <size>60354816</size>
+    <sha256>c028bf701b07a6bd1cbeda216d443c782a73626947b17fa2398de5a162b6bd8c</sha256>
+    <size>60368128</size>
   </dev32>
   <dev64>
-    <version>83.0.4093.3</version>
+    <version>83.0.4100.3</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AOcbalg_7InmPFrIyPPhmHs_83.0.4093.3/83.0.4093.3_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/AOcbalg_7InmPFrIyPPhmHs_83.0.4093.3/83.0.4093.3_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/dBtdddv7oCUcRuTbqr-lrw_83.0.4100.3/83.0.4100.3_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/dBtdddv7oCUcRuTbqr-lrw_83.0.4100.3/83.0.4100.3_chrome_installer.exe</url>
     </download>
-    <sha256>140d477b6873568635a23e85da28af1143970dab1344a9d755785bd64bd18145</sha256>
-    <size>61474048</size>
+    <sha256>3afb2a8b9e24b97df62e0d1c964cca281bce90705e01a2c85393a70a30f5d892</sha256>
+    <size>61499648</size>
   </dev64>
   <canary32>
     <version>83.0.4101.0</version>
