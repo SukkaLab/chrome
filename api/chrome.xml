@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2020-07-09 22:04:22</time>
+  <time>2020-07-10 22:04:13</time>
   <stable32>
     <version>83.0.4103.116</version>
     <download>
@@ -56,21 +56,21 @@
     <size>62157056</size>
   </dev64>
   <canary32>
-    <version>86.0.4197.0</version>
+    <version>86.0.4198.0</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/CiBZazlD5a-LX8IXKf9cOw_86.0.4197.0/86.0.4197.0_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/CiBZazlD5a-LX8IXKf9cOw_86.0.4197.0/86.0.4197.0_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/HjP2dDQEx5dXf4OI61YTZw_86.0.4198.0/86.0.4198.0_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/HjP2dDQEx5dXf4OI61YTZw_86.0.4198.0/86.0.4198.0_chrome_installer.exe</url>
     </download>
-    <sha256>68e6c611ade45e942a52f19f2bde2ca0a2a9fb859dee40f96c290797b9d369e6</sha256>
-    <size>65637120</size>
+    <sha256>e5dd11b0f3c76c8adf8643e27e0398fec9d90d21c78fcf885e387ae58669ac9c</sha256>
+    <size>65485056</size>
   </canary32>
   <canary64>
-    <version>86.0.4197.0</version>
+    <version>86.0.4198.0</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AJYFZxkZee6oGSxyVpI3VGc_86.0.4197.0/86.0.4197.0_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/AJYFZxkZee6oGSxyVpI3VGc_86.0.4197.0/86.0.4197.0_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AKKv--iml93EzW5_5yNHSYU_86.0.4198.0/86.0.4198.0_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/AKKv--iml93EzW5_5yNHSYU_86.0.4198.0/86.0.4198.0_chrome_installer.exe</url>
     </download>
-    <sha256>8c394f316b0e86bad62106486e08c0cddbc079e39f9263211ce75a3f7aceea92</sha256>
-    <size>67312896</size>
+    <sha256>bdf3f0a93ec2d74e25e80d8a5f93185fdd79a0e1bf14f102756893da29e7655c</sha256>
+    <size>67127040</size>
   </canary64>
 </chromechecker>
