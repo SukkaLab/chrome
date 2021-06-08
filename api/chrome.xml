@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2021-06-08 01:02:47</time>
+  <time>2021-06-09 01:03:26</time>
   <stable32>
-    <version>91.0.4472.77</version>
+    <version>www.google.com/dl/release2/chrome/OBWmYNHq7JtH92_3Ap0Zyw_91.0.4472.77/</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/OBWmYNHq7JtH92_3Ap0Zyw_91.0.4472.77/91.0.4472.77_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/OBWmYNHq7JtH92_3Ap0Zyw_91.0.4472.77/91.0.4472.77_chrome_installer.exe</url>
+      <url>https://http://redirector.gvt1.com/edgedl/release2/chrome/OBWmYNHq7JtH92_3Ap0Zyw_91.0.4472.77/VALUE=EMzLAWP92XWCUtrzQoQuI3pHHkw=</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/OBWmYNHq7JtH92_3Ap0Zyw_91.0.4472.77/VALUE=EMzLAWP92XWCUtrzQoQuI3pHHkw=</url>
     </download>
-    <sha256>58b162872e988c9167e904f7ccb0b5fde05abd7194c81268783821a3e07df4b8</sha256>
-    <size>73741240</size>
+    <sha256>ELEMENT=packageATTRIBUTE=fpVALUE=1.58b162872e988c9167e904f7ccb0b5fde05abd7194c81268783821a3e07df4b8</sha256>
+    <size>58b162872e988c9167e904f7ccb0b5fde05abd7194c81268783821a3e07df4b8</size>
   </stable32>
   <stable64>
     <version>91.0.4472.77</version>
@@ -38,13 +38,13 @@
     <size>77085624</size>
   </beta64>
   <dev32>
-    <version>www.google.com/dl/release2/chrome/AI6kUOYI240qE2wtaH8u44U_93.0.4530.5/</version>
+    <version>93.0.4530.3</version>
     <download>
-      <url>https://http://redirector.gvt1.com/edgedl/release2/chrome/AI6kUOYI240qE2wtaH8u44U_93.0.4530.5/VALUE=U9HJnbP4KEbMBdHE8B1NAN0aOVo=</url>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AI6kUOYI240qE2wtaH8u44U_93.0.4530.5/VALUE=U9HJnbP4KEbMBdHE8B1NAN0aOVo=</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/G9LgbjMbEoaL5rLH8EGk9w_93.0.4530.3/93.0.4530.3_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/G9LgbjMbEoaL5rLH8EGk9w_93.0.4530.3/93.0.4530.3_chrome_installer.exe</url>
     </download>
-    <sha256>ELEMENT=packageATTRIBUTE=fpVALUE=1.e4ea3a8816ba7c3ef53d48e0037c3a36fc577dd334942c658ec6aa0df90f415f</sha256>
-    <size>e4ea3a8816ba7c3ef53d48e0037c3a36fc577dd334942c658ec6aa0df90f415f</size>
+    <sha256>f62a8749b66067f17195ec692c43f7b8a35f0236d07aee83b9a400bb49c92316</sha256>
+    <size>75756984</size>
   </dev32>
   <dev64>
     <version>93.0.4530.5</version>
@@ -56,21 +56,21 @@
     <size>78250424</size>
   </dev64>
   <canary32>
-    <version>93.0.4535.0</version>
+    <version>93.0.4536.0</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/ALjU2Olrh7YivSIH6L332wg_93.0.4535.0/93.0.4535.0_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/ALjU2Olrh7YivSIH6L332wg_93.0.4535.0/93.0.4535.0_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AN_e7nTATyit6qV0BL1kT5o_93.0.4536.0/93.0.4536.0_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/AN_e7nTATyit6qV0BL1kT5o_93.0.4536.0/93.0.4536.0_chrome_installer.exe</url>
     </download>
-    <sha256>9ff8bd611e6f774d534a1f86750a60b1de60cc6422b316a757e9941105799432</sha256>
-    <size>75649976</size>
+    <sha256>2688d45864c0c560b2b12b25270f44e0a34f111cf93fd5b30bfac1598205d376</sha256>
+    <size>75693496</size>
   </canary32>
   <canary64>
-    <version>www.google.com/dl/release2/chrome/IXhfmJuFFtN_9xh0kUE1-w_93.0.4535.0/</version>
+    <version>93.0.4536.0</version>
     <download>
-      <url>https://http://redirector.gvt1.com/edgedl/release2/chrome/IXhfmJuFFtN_9xh0kUE1-w_93.0.4535.0/VALUE=JpcuBiydOMycPwtKSQO2t32pcgY=</url>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/IXhfmJuFFtN_9xh0kUE1-w_93.0.4535.0/VALUE=JpcuBiydOMycPwtKSQO2t32pcgY=</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AMpFpIwZMrz-7OIwzgl3HVY_93.0.4536.0/93.0.4536.0_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/AMpFpIwZMrz-7OIwzgl3HVY_93.0.4536.0/93.0.4536.0_chrome_installer.exe</url>
     </download>
-    <sha256>ELEMENT=packageATTRIBUTE=fpVALUE=1.78f0b94c6f08d55c3e5017f242b5414aa9dee5ba23f15f63f9b833ad115c8680</sha256>
-    <size>78f0b94c6f08d55c3e5017f242b5414aa9dee5ba23f15f63f9b833ad115c8680</size>
+    <sha256>4e377f8ab02a3190a0733d828c90dc4282ced7c6a2ce7a18f0fd288110c804cb</sha256>
+    <size>75091896</size>
   </canary64>
 </chromechecker>
