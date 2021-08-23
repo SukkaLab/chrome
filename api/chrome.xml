@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2021-08-23 01:47:42</time>
+  <time>2021-08-24 01:48:39</time>
   <stable32>
     <version>www.google.com/dl/release2/chrome/admt7wzfabtdn63eh2wtuktbk4aq_92.0.4515.159/</version>
     <download>
@@ -56,21 +56,21 @@
     <size>438a5b2d845cfb560d36073af547d80474528a4f16ced69f8780d51590afb0fb</size>
   </dev64>
   <canary32>
-    <version>www.google.com/dl/release2/chrome/a6vse3so3jnvxzsaix5u3wkjue_95.0.4618.2/</version>
+    <version>www.google.com/dl/release2/chrome/mghp2jog2bywue6md6xyaigc3a_95.0.4619.2/</version>
     <download>
-      <url>https://http://redirector.gvt1.com/edgedl/release2/chrome/a6vse3so3jnvxzsaix5u3wkjue_95.0.4618.2/VALUE=mjFRJpby48s0Q5cutBK+cd/KVsU=</url>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/a6vse3so3jnvxzsaix5u3wkjue_95.0.4618.2/VALUE=mjFRJpby48s0Q5cutBK+cd/KVsU=</url>
+      <url>https://http://redirector.gvt1.com/edgedl/release2/chrome/mghp2jog2bywue6md6xyaigc3a_95.0.4619.2/VALUE=mBcg70CbaUWGql3onH6E1mHQwEA=</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/mghp2jog2bywue6md6xyaigc3a_95.0.4619.2/VALUE=mBcg70CbaUWGql3onH6E1mHQwEA=</url>
     </download>
-    <sha256>ELEMENT=packageATTRIBUTE=fpVALUE=1.2a5c63a2982c7bcaaf6d950c7b88b2afcffde572abe7360bb440b58abc3c6893</sha256>
-    <size>2a5c63a2982c7bcaaf6d950c7b88b2afcffde572abe7360bb440b58abc3c6893</size>
+    <sha256>ELEMENT=packageATTRIBUTE=fpVALUE=1.f20af58083b6be434e0e9a15c93aa078ad5e038cb845e6b081ed7ad1124bf5c2</sha256>
+    <size>f20af58083b6be434e0e9a15c93aa078ad5e038cb845e6b081ed7ad1124bf5c2</size>
   </canary32>
   <canary64>
-    <version>www.google.com/dl/release2/chrome/acwbvgsle4273idn3sss53f2dopq_95.0.4618.2/</version>
+    <version>www.google.com/dl/release2/chrome/jv4byq5fwcjmeoznzgxk6se4rq_95.0.4619.2/</version>
     <download>
-      <url>https://http://redirector.gvt1.com/edgedl/release2/chrome/acwbvgsle4273idn3sss53f2dopq_95.0.4618.2/VALUE=tzcqUyJ39Nnz9wTA5ZR3u91JJg8=</url>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/acwbvgsle4273idn3sss53f2dopq_95.0.4618.2/VALUE=tzcqUyJ39Nnz9wTA5ZR3u91JJg8=</url>
+      <url>https://http://redirector.gvt1.com/edgedl/release2/chrome/jv4byq5fwcjmeoznzgxk6se4rq_95.0.4619.2/VALUE=bhiezOdmc0d01//Dq8+fgMG5cAc=</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/jv4byq5fwcjmeoznzgxk6se4rq_95.0.4619.2/VALUE=bhiezOdmc0d01//Dq8+fgMG5cAc=</url>
     </download>
-    <sha256>ELEMENT=packageATTRIBUTE=fpVALUE=1.95775ba16f330a34faabd3a78d3df645b80bdec315717ed21cc076fa80c00a95</sha256>
-    <size>95775ba16f330a34faabd3a78d3df645b80bdec315717ed21cc076fa80c00a95</size>
+    <sha256>ELEMENT=packageATTRIBUTE=fpVALUE=1.088fbb0fe60ed6173c063320c6d2342fc559ad966431d091703c03237c2a73d1</sha256>
+    <size>088fbb0fe60ed6173c063320c6d2342fc559ad966431d091703c03237c2a73d1</size>
   </canary64>
 </chromechecker>
